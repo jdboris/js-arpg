@@ -1,0 +1,18 @@
+{ "object":
+    {
+     "gid":1132,
+     "height":16,
+     "id":278,
+     "name":"Mage",
+     "rotation":0,
+     "type":"Mob",
+     "visible":true,
+     "width":16
+    },
+ "tileset":
+    {
+     "firstgid":1,
+     "source":"..\/..\/assets\/tiled\/CHARACTERS_0.json"
+    },
+ "type":"template"
+}

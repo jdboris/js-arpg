@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"..\/atlas\/character-atlas.png",
+ "imageheight":1136,
+ "imagewidth":256,
+ "margin":0,
+ "name":"CHARACTERS_0",
+ "spacing":0,
+ "tilecount":1136,
+ "tiledversion":"1.2.4",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.2
+}

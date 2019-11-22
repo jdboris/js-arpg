@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="Mob" color="#c70003">
+  <property name="mobTeam" type="string" default="ie HOSTILE_TEAM"/>
+ </objecttype>
+ <objecttype name="PortalEntranceTrigger" color="#ffee00">
+  <property name="directionToEnter" type="string" default="ie WEST"/>
+  <property name="targetExit" type="string" default="ie EAST_1"/>
+  <property name="targetLevel" type="string" default="ie LEVEL_1"/>
+  <property name="targetRoom" type="string" default="ie ROOM_1"/>
+ </objecttype>
+ <objecttype name="PortalExit" color="#0a00a4"/>
+ <objecttype name="Structure" color="#7a3b00"/>
+</objecttypes>
