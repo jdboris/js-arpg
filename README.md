@@ -1,6 +1,6 @@
 # JavaScript (Phaser.js) ARPG
-The beginnings of an ARPG written in JavaScript with Phaser.js. No longer under development.
+The beginnings of an ARPG written in JavaScript with Phaser.js.
 
-WARNING: Contains old, out-of-date, spaghetti code. Use of any kind is **not recommended.**
+**⛔️ DEPRECATED** *This repository is no longer maintained. Use of any kind is not recommended.*
 
 ![Example](https://i.imgur.com/gnnfUVL.png)
